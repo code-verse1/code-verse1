@@ -261,17 +261,29 @@ A modern business website designed to present an HVAC brand, its services, produ
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-verse1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-verse1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=CBD5E1" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-verse1&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-verse1&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1" height="180"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=code-verse1&theme=transparent&hide_border=true&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"/>
+<img src="https://streak-stats.demolab.com/?user=code-verse1&theme=transparent&hide_border=true&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-verse1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-verse1&bg_color=00000000&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true" width="95%"/>
 
 </div>
 
